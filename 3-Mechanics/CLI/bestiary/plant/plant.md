@@ -11,6 +11,7 @@ cssclasses: json5e-note
 - [Myconid Sovereign](myconid-sovereign.md)
 - [Myconid Sprout](myconid-sprout.md)
 - [Needle Blight](needle-blight.md)
+- [Oakheart](oakheart-hwcs.md)
 - [Quaggoth Spore Servant](quaggoth-spore-servant.md)
 - [Shambling Mound](shambling-mound.md)
 - [Shrieker](shrieker.md)

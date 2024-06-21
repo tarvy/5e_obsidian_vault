@@ -3,12 +3,14 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
 - compendium/src/5e/phb
+- spell/class/cleric/community-domain
 - spell/class/fighter/eldritch-knight
 - spell/class/rogue/arcane-trickster
 - spell/class/wizard
 - spell/level/4
 - spell/school/conjuration
 classes:
+- Cleric (Community Domain)
 - Fighter (Eldritch Knight)
 - Rogue (Arcane Trickster)
 - Wizard
@@ -28,6 +30,6 @@ The hound is [invisible](/3-Mechanics/CLI/rules/conditions.md#invisible) to all 
 
 At the start of each of your turns, the hound attempts to bite one creature within 5 feet of it that is hostile to you. The hound's attack bonus is equal to your spellcasting ability modifier + your proficiency bonus. On a hit, it deals `4d8` piercing damage.
 
-**Classes**: [Fighter (Eldritch Knight)](/3-Mechanics/CLI/classes/fighter-eldritch-knight.md), [Rogue (Arcane Trickster)](/3-Mechanics/CLI/classes/rogue-arcane-trickster.md), [Wizard](/3-Mechanics/CLI/classes/wizard.md)
+**Classes**: [Cleric (Community Domain)](/3-Mechanics/CLI/classes/cleric-community-domain-hwcs.md), [Fighter (Eldritch Knight)](/3-Mechanics/CLI/classes/fighter-eldritch-knight.md), [Rogue (Arcane Trickster)](/3-Mechanics/CLI/classes/rogue-arcane-trickster.md), [Wizard](/3-Mechanics/CLI/classes/wizard.md)
 
 *Source: Player's Handbook p. 261. Available in the SRD (as 'Faithful Hound').*

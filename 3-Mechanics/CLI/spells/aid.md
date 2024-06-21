@@ -4,10 +4,12 @@ cssclasses: json5e-spell
 tags:
 - compendium/src/5e/phb
 - spell/class/cleric
+- spell/class/cleric/community-domain
 - spell/class/paladin
 - spell/level/2
 - spell/school/abjuration
 classes:
+- Cleric (Community Domain)
 - Cleric
 - Paladin
 aliases: ["Aid"]
@@ -24,6 +26,6 @@ Your spell bolsters your allies with toughness and resolve. Choose up to three c
 
 **At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, a target's hit points increase by an additional 5 for each slot level above 2nd.
 
-**Classes**: [Cleric](/3-Mechanics/CLI/classes/cleric.md), [Paladin](/3-Mechanics/CLI/classes/paladin.md)
+**Classes**: [Cleric (Community Domain)](/3-Mechanics/CLI/classes/cleric-community-domain-hwcs.md), [Cleric](/3-Mechanics/CLI/classes/cleric.md), [Paladin](/3-Mechanics/CLI/classes/paladin.md)
 
 *Source: Player's Handbook p. 211. Available in the SRD and the Basic Rules.*

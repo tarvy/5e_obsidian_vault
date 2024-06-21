@@ -4,6 +4,7 @@ cssclasses: json5e-spell
 tags:
 - compendium/src/5e/phb
 - spell/class/bard
+- spell/class/cleric/night-domain
 - spell/class/druid/circle-of-the-land
 - spell/class/warlock
 - spell/class/wizard
@@ -11,6 +12,7 @@ tags:
 - spell/school/illusion
 classes:
 - Bard
+- Cleric (Night Domain)
 - Druid (Circle of the Land)
 - Warlock
 - Wizard
@@ -32,6 +34,6 @@ You can make the messenger appear monstrous and terrifying to the target. If you
 
 If you have a body part, lock of hair, clipping from a nail, or similar portion of the target's body, the target makes its saving throw with disadvantage.
 
-**Classes**: [Bard](/3-Mechanics/CLI/classes/bard.md), [Druid (Circle of the Land)](/3-Mechanics/CLI/classes/druid-circle-of-the-land.md), [Warlock](/3-Mechanics/CLI/classes/warlock.md), [Wizard](/3-Mechanics/CLI/classes/wizard.md)
+**Classes**: [Bard](/3-Mechanics/CLI/classes/bard.md), [Cleric (Night Domain)](/3-Mechanics/CLI/classes/cleric-night-domain-hwcs.md), [Druid (Circle of the Land)](/3-Mechanics/CLI/classes/druid-circle-of-the-land.md), [Warlock](/3-Mechanics/CLI/classes/warlock.md), [Wizard](/3-Mechanics/CLI/classes/wizard.md)
 
 *Source: Player's Handbook p. 236. Available in the SRD and the Basic Rules.*

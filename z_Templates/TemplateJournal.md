@@ -35,15 +35,15 @@ _%>
 
 %% Keep track of who turned up. %%
 
-- [[Anthony]] 
-- [[Chandler]] 
+- [[Dickus Chodis]] 
+- [[Bukaki Bob]] 
 
 ## Absent
 
 %% Keep track of who didn't turn up. %%
 
-- [[Anthony]] 
-- [[Chandler]] 
+- [[Dickus Chodis]] 
+- [[Bukaki Bob]] 
 
 # Session Overview
 

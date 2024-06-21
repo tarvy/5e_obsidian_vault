@@ -3,11 +3,13 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
 - compendium/src/5e/phb
+- spell/class/cleric/community-domain
 - spell/class/wizard
 - spell/level/5
 - spell/ritual
 - spell/school/divination
 classes:
+- Cleric (Community Domain)
 - Wizard
 aliases: ["Rary's Telepathic Bond"]
 ---
@@ -23,6 +25,6 @@ You forge a telepathic link among up to eight willing creatures of your choice w
 
 Until the spell ends, the targets can communicate telepathically through the bond whether or not they have a common language. The communication is possible over any distance, though it can't extend to other planes of existence.
 
-**Classes**: [Wizard](/3-Mechanics/CLI/classes/wizard.md)
+**Classes**: [Cleric (Community Domain)](/3-Mechanics/CLI/classes/cleric-community-domain-hwcs.md), [Wizard](/3-Mechanics/CLI/classes/wizard.md)
 
 *Source: Player's Handbook p. 270. Available in the SRD (as 'Telepathic Bond').*

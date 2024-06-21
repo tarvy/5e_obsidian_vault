@@ -4,6 +4,18 @@ cssclasses: json5e-note
 ---
 # Index of Deities
 
+- [Altus](amaranthine-altus.md)
+- [Ardea](amaranthine-ardea.md)
+- [Cairith](amaranthine-cairith.md)
+- [Clhuran](amaranthine-clhuran.md)
+- [Gaspard](amaranthine-gaspard.md)
+- [Gesme](amaranthine-gesme.md)
+- [Hanera](amaranthine-hanera.md)
+- [Hath](amaranthine-hath.md)
+- [Henwin](amaranthine-henwin.md)
+- [Kren](amaranthine-kren.md)
+- [Reya](amaranthine-reya.md)
+- [Tyton](amaranthine-tyton.md)
 - [Arawn](celtic-arawn.md)
 - [Belenus](celtic-belenus.md)
 - [Brigantia](celtic-brigantia.md)

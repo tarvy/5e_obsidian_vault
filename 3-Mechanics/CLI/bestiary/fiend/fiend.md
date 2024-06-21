@@ -26,6 +26,7 @@ cssclasses: json5e-note
 - [Incubus](incubus.md)
 - [Larva (DMG)](larva-dmg.md)
 - [Lemure](lemure.md)
+- [Lesser Demon](lesser-demon-hwcs.md)
 - [Manes](manes.md)
 - [Marilith](marilith.md)
 - [Mezzoloth](mezzoloth.md)

@@ -3,11 +3,13 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
 - compendium/src/5e/phb
+- spell/class/cleric/night-domain
 - spell/class/druid
 - spell/class/paladin/oath-of-the-ancients
 - spell/level/2
 - spell/school/evocation
 classes:
+- Cleric (Night Domain)
 - Druid
 - Paladin (Oath of the Ancients)
 aliases: ["Moonbeam"]
@@ -30,6 +32,6 @@ On each of your turns after you cast this spell, you can use an action to move t
 
 **At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, the damage increases by `1d10` for each slot level above 2nd.
 
-**Classes**: [Druid](/3-Mechanics/CLI/classes/druid.md), [Paladin (Oath of the Ancients)](/3-Mechanics/CLI/classes/paladin-oath-of-the-ancients.md)
+**Classes**: [Cleric (Night Domain)](/3-Mechanics/CLI/classes/cleric-night-domain-hwcs.md), [Druid](/3-Mechanics/CLI/classes/druid.md), [Paladin (Oath of the Ancients)](/3-Mechanics/CLI/classes/paladin-oath-of-the-ancients.md)
 
 *Source: Player's Handbook p. 261. Available in the SRD.*

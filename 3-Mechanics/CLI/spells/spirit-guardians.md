@@ -4,11 +4,13 @@ cssclasses: json5e-spell
 tags:
 - compendium/src/5e/phb
 - spell/class/cleric
+- spell/class/cleric/community-domain
 - spell/class/cleric/war-domain
 - spell/class/paladin/oath-of-the-crown
 - spell/level/3
 - spell/school/conjuration
 classes:
+- Cleric (Community Domain)
 - Cleric (War Domain)
 - Cleric
 - Paladin (Oath of the Crown)
@@ -28,6 +30,6 @@ When you cast this spell, you can designate any number of creatures you can see 
 
 **At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, the damage increases by `1d8` for each slot level above 3rd.
 
-**Classes**: [Cleric (War Domain)](/3-Mechanics/CLI/classes/cleric-war-domain.md), [Cleric](/3-Mechanics/CLI/classes/cleric.md), [Paladin (Oath of the Crown)](/3-Mechanics/CLI/classes/paladin-oath-of-the-crown-scag.md)
+**Classes**: [Cleric (Community Domain)](/3-Mechanics/CLI/classes/cleric-community-domain-hwcs.md), [Cleric (War Domain)](/3-Mechanics/CLI/classes/cleric-war-domain.md), [Cleric](/3-Mechanics/CLI/classes/cleric.md), [Paladin (Oath of the Crown)](/3-Mechanics/CLI/classes/paladin-oath-of-the-crown-scag.md)
 
 *Source: Player's Handbook p. 278. Available in the SRD and the Basic Rules.*

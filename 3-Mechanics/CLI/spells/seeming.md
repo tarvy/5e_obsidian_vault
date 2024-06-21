@@ -4,6 +4,7 @@ cssclasses: json5e-spell
 tags:
 - compendium/src/5e/phb
 - spell/class/bard
+- spell/class/cleric/night-domain
 - spell/class/sorcerer
 - spell/class/warlock/the-archfey
 - spell/class/wizard
@@ -11,6 +12,7 @@ tags:
 - spell/school/illusion
 classes:
 - Bard
+- Cleric (Night Domain)
 - Sorcerer
 - Warlock (The Archfey)
 - Wizard
@@ -32,6 +34,6 @@ The changes wrought by this spell fail to hold up to physical inspection. For ex
 
 A creature can use its action to inspect a target and make an Intelligence ([Investigation](/3-Mechanics/CLI/rules/skills.md#Investigation)) check against your spell save DC. If it succeeds, it becomes aware that the target is disguised.
 
-**Classes**: [Bard](/3-Mechanics/CLI/classes/bard.md), [Sorcerer](/3-Mechanics/CLI/classes/sorcerer.md), [Warlock (The Archfey)](/3-Mechanics/CLI/classes/warlock-the-archfey.md), [Wizard](/3-Mechanics/CLI/classes/wizard.md)
+**Classes**: [Bard](/3-Mechanics/CLI/classes/bard.md), [Cleric (Night Domain)](/3-Mechanics/CLI/classes/cleric-night-domain-hwcs.md), [Sorcerer](/3-Mechanics/CLI/classes/sorcerer.md), [Warlock (The Archfey)](/3-Mechanics/CLI/classes/warlock-the-archfey.md), [Wizard](/3-Mechanics/CLI/classes/wizard.md)
 
 *Source: Player's Handbook p. 274. Available in the SRD.*

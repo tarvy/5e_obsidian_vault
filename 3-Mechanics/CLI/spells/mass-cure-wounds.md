@@ -5,12 +5,14 @@ tags:
 - compendium/src/5e/phb
 - spell/class/bard
 - spell/class/cleric
+- spell/class/cleric/community-domain
 - spell/class/cleric/life-domain
 - spell/class/druid
 - spell/level/5
 - spell/school/evocation
 classes:
 - Bard
+- Cleric (Community Domain)
 - Cleric (Life Domain)
 - Cleric
 - Druid
@@ -28,6 +30,6 @@ A wave of healing energy washes out from a point of your choice within range. Ch
 
 **At Higher Levels.** When you cast this spell using a spell slot of 6th level or higher, the healing increases by `1d8` for each slot level above 5th.
 
-**Classes**: [Bard](/3-Mechanics/CLI/classes/bard.md), [Cleric (Life Domain)](/3-Mechanics/CLI/classes/cleric-life-domain.md), [Cleric](/3-Mechanics/CLI/classes/cleric.md), [Druid](/3-Mechanics/CLI/classes/druid.md)
+**Classes**: [Bard](/3-Mechanics/CLI/classes/bard.md), [Cleric (Community Domain)](/3-Mechanics/CLI/classes/cleric-community-domain-hwcs.md), [Cleric (Life Domain)](/3-Mechanics/CLI/classes/cleric-life-domain.md), [Cleric](/3-Mechanics/CLI/classes/cleric.md), [Druid](/3-Mechanics/CLI/classes/druid.md)
 
 *Source: Player's Handbook p. 258. Available in the SRD and the Basic Rules.*

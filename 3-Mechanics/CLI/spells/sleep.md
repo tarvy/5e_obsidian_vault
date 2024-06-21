@@ -4,6 +4,7 @@ cssclasses: json5e-spell
 tags:
 - compendium/src/5e/phb
 - spell/class/bard
+- spell/class/cleric/night-domain
 - spell/class/fighter/eldritch-knight
 - spell/class/rogue/arcane-trickster
 - spell/class/sorcerer
@@ -13,6 +14,7 @@ tags:
 - spell/school/enchantment
 classes:
 - Bard
+- Cleric (Night Domain)
 - Fighter (Eldritch Knight)
 - Rogue (Arcane Trickster)
 - Sorcerer
@@ -36,6 +38,6 @@ Undead and creatures immune to being [charmed](/3-Mechanics/CLI/rules/conditions
 
 **At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, roll an additional `2d8` for each slot level above 1st.
 
-**Classes**: [Bard](/3-Mechanics/CLI/classes/bard.md), [Fighter (Eldritch Knight)](/3-Mechanics/CLI/classes/fighter-eldritch-knight.md), [Rogue (Arcane Trickster)](/3-Mechanics/CLI/classes/rogue-arcane-trickster.md), [Sorcerer](/3-Mechanics/CLI/classes/sorcerer.md), [Warlock (The Archfey)](/3-Mechanics/CLI/classes/warlock-the-archfey.md), [Wizard](/3-Mechanics/CLI/classes/wizard.md)
+**Classes**: [Bard](/3-Mechanics/CLI/classes/bard.md), [Cleric (Night Domain)](/3-Mechanics/CLI/classes/cleric-night-domain-hwcs.md), [Fighter (Eldritch Knight)](/3-Mechanics/CLI/classes/fighter-eldritch-knight.md), [Rogue (Arcane Trickster)](/3-Mechanics/CLI/classes/rogue-arcane-trickster.md), [Sorcerer](/3-Mechanics/CLI/classes/sorcerer.md), [Warlock (The Archfey)](/3-Mechanics/CLI/classes/warlock-the-archfey.md), [Wizard](/3-Mechanics/CLI/classes/wizard.md)
 
 *Source: Player's Handbook p. 276. Available in the SRD and the Basic Rules.*

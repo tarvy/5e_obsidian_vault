@@ -4,11 +4,13 @@ cssclasses: json5e-spell
 tags:
 - compendium/src/5e/phb
 - spell/class/cleric
+- spell/class/cleric/community-domain
 - spell/class/cleric/life-domain
 - spell/class/paladin/oath-of-devotion
 - spell/level/3
 - spell/school/abjuration
 classes:
+- Cleric (Community Domain)
 - Cleric (Life Domain)
 - Cleric
 - Paladin (Oath of Devotion)
@@ -24,6 +26,6 @@ aliases: ["Beacon of Hope"]
 
 This spell bestows hope and vitality. Choose any number of creatures within range. For the duration, each target has advantage on Wisdom saving throws and death saving throws, and regains the maximum number of hit points possible from any healing.
 
-**Classes**: [Cleric (Life Domain)](/3-Mechanics/CLI/classes/cleric-life-domain.md), [Cleric](/3-Mechanics/CLI/classes/cleric.md), [Paladin (Oath of Devotion)](/3-Mechanics/CLI/classes/paladin-oath-of-devotion.md)
+**Classes**: [Cleric (Community Domain)](/3-Mechanics/CLI/classes/cleric-community-domain-hwcs.md), [Cleric (Life Domain)](/3-Mechanics/CLI/classes/cleric-life-domain.md), [Cleric](/3-Mechanics/CLI/classes/cleric.md), [Paladin (Oath of Devotion)](/3-Mechanics/CLI/classes/paladin-oath-of-devotion.md)
 
 *Source: Player's Handbook p. 217. Available in the SRD and the Basic Rules.*

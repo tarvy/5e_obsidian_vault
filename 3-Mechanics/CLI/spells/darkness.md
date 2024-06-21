@@ -3,6 +3,7 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
 - compendium/src/5e/phb
+- spell/class/cleric/night-domain
 - spell/class/druid/circle-of-the-land
 - spell/class/fighter/eldritch-knight
 - spell/class/monk/way-of-shadow
@@ -14,6 +15,7 @@ tags:
 - spell/level/2
 - spell/school/evocation
 classes:
+- Cleric (Night Domain)
 - Druid (Circle of the Land)
 - Fighter (Eldritch Knight)
 - Monk (Way of Shadow)
@@ -38,6 +40,6 @@ If the point you choose is on an object you are holding or one that isn't being 
 
 If any of this spell's area overlaps with an area of light created by a spell of 2nd level or lower, the spell that created the light is dispelled.
 
-**Classes**: [Druid (Circle of the Land)](/3-Mechanics/CLI/classes/druid-circle-of-the-land.md), [Fighter (Eldritch Knight)](/3-Mechanics/CLI/classes/fighter-eldritch-knight.md), [Monk (Way of Shadow)](/3-Mechanics/CLI/classes/monk-way-of-shadow.md), [Paladin (Oathbreaker)](/3-Mechanics/CLI/classes/paladin-oathbreaker.md), [Rogue (Arcane Trickster)](/3-Mechanics/CLI/classes/rogue-arcane-trickster.md), [Sorcerer](/3-Mechanics/CLI/classes/sorcerer.md), [Warlock](/3-Mechanics/CLI/classes/warlock.md), [Wizard](/3-Mechanics/CLI/classes/wizard.md)
+**Classes**: [Cleric (Night Domain)](/3-Mechanics/CLI/classes/cleric-night-domain-hwcs.md), [Druid (Circle of the Land)](/3-Mechanics/CLI/classes/druid-circle-of-the-land.md), [Fighter (Eldritch Knight)](/3-Mechanics/CLI/classes/fighter-eldritch-knight.md), [Monk (Way of Shadow)](/3-Mechanics/CLI/classes/monk-way-of-shadow.md), [Paladin (Oathbreaker)](/3-Mechanics/CLI/classes/paladin-oathbreaker.md), [Rogue (Arcane Trickster)](/3-Mechanics/CLI/classes/rogue-arcane-trickster.md), [Sorcerer](/3-Mechanics/CLI/classes/sorcerer.md), [Warlock](/3-Mechanics/CLI/classes/warlock.md), [Wizard](/3-Mechanics/CLI/classes/wizard.md)
 
 *Source: Player's Handbook p. 230. Available in the SRD and the Basic Rules.*

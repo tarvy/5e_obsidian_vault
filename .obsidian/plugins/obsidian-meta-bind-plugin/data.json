@@ -1,0 +1,41 @@
+{
+  "devMode": false,
+  "ignoreCodeBlockRestrictions": false,
+  "preferredDateFormat": "YYYY-MM-DD",
+  "firstWeekday": {
+    "index": 1,
+    "name": "Monday",
+    "shortName": "Mo"
+  },
+  "syncInterval": 200,
+  "minSyncInterval": 50,
+  "maxSyncInterval": 1000,
+  "enableJs": false,
+  "viewFieldDisplayNullAsEmpty": false,
+  "enableSyntaxHighlighting": true,
+  "enableEditorRightClickMenu": true,
+  "inputFieldTemplates": [],
+  "buttonTemplates": [
+    {
+      "label": "New Quest",
+      "hidden": false,
+      "class": "",
+      "tooltip": "Click this to create a quest. ",
+      "id": "button_quest",
+      "style": "primary",
+      "actions": [
+        {
+          "type": "templaterCreateNote",
+          "templateFile": "z_Templates/TemplateQuest.md",
+          "folderPath": "2-Campaign/Quests",
+          "fileName": "NewQuest",
+          "openNote": true
+        }
+      ]
+    }
+  ],
+  "excludedFolders": [
+    "templates"
+  ],
+  "useUsDateInputOrder": false
+}

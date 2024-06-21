@@ -7,6 +7,7 @@ cssclasses: json5e-note
 - [Abominable Yeti](abominable-yeti.md)
 - [Androsphinx](androsphinx.md)
 - [Ankheg](ankheg.md)
+- [Ashsnake](ashsnake-hwcs.md)
 - [Basilisk](basilisk.md)
 - [Behir](behir.md)
 - [Bulette](bulette.md)

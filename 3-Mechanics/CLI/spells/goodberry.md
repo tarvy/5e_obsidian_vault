@@ -3,11 +3,13 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
 - compendium/src/5e/phb
+- spell/class/cleric/community-domain
 - spell/class/druid
 - spell/class/ranger
 - spell/level/1
 - spell/school/transmutation
 classes:
+- Cleric (Community Domain)
 - Druid
 - Ranger
 aliases: ["Goodberry"]
@@ -24,6 +26,6 @@ Up to ten berries appear in your hand and are infused with magic for the duratio
 
 The berries lose their potency if they have not been consumed within 24 hours of the casting of this spell.
 
-**Classes**: [Druid](/3-Mechanics/CLI/classes/druid.md), [Ranger](/3-Mechanics/CLI/classes/ranger.md)
+**Classes**: [Cleric (Community Domain)](/3-Mechanics/CLI/classes/cleric-community-domain-hwcs.md), [Druid](/3-Mechanics/CLI/classes/druid.md), [Ranger](/3-Mechanics/CLI/classes/ranger.md)
 
 *Source: Player's Handbook p. 246. Available in the SRD.*

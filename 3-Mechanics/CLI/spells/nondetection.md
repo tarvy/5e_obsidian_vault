@@ -5,6 +5,7 @@ tags:
 - compendium/src/5e/phb
 - spell/class/bard
 - spell/class/cleric/knowledge-domain
+- spell/class/cleric/night-domain
 - spell/class/fighter/eldritch-knight
 - spell/class/ranger
 - spell/class/rogue/arcane-trickster
@@ -14,6 +15,7 @@ tags:
 classes:
 - Bard
 - Cleric (Knowledge Domain)
+- Cleric (Night Domain)
 - Fighter (Eldritch Knight)
 - Ranger
 - Rogue (Arcane Trickster)
@@ -30,6 +32,6 @@ aliases: ["Nondetection"]
 
 For the duration, you hide a target that you touch from divination magic. The target can be a willing creature or a place or an object no larger than 10 feet in any dimension. The target can't be targeted by any divination magic or perceived through magical scrying sensors.
 
-**Classes**: [Bard](/3-Mechanics/CLI/classes/bard.md), [Cleric (Knowledge Domain)](/3-Mechanics/CLI/classes/cleric-knowledge-domain.md), [Fighter (Eldritch Knight)](/3-Mechanics/CLI/classes/fighter-eldritch-knight.md), [Ranger](/3-Mechanics/CLI/classes/ranger.md), [Rogue (Arcane Trickster)](/3-Mechanics/CLI/classes/rogue-arcane-trickster.md), [Wizard](/3-Mechanics/CLI/classes/wizard.md)
+**Classes**: [Bard](/3-Mechanics/CLI/classes/bard.md), [Cleric (Knowledge Domain)](/3-Mechanics/CLI/classes/cleric-knowledge-domain.md), [Cleric (Night Domain)](/3-Mechanics/CLI/classes/cleric-night-domain-hwcs.md), [Fighter (Eldritch Knight)](/3-Mechanics/CLI/classes/fighter-eldritch-knight.md), [Ranger](/3-Mechanics/CLI/classes/ranger.md), [Rogue (Arcane Trickster)](/3-Mechanics/CLI/classes/rogue-arcane-trickster.md), [Wizard](/3-Mechanics/CLI/classes/wizard.md)
 
 *Source: Player's Handbook p. 263. Available in the SRD.*

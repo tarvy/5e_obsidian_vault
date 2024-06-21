@@ -10,11 +10,11 @@ obsidianUIMode: preview
 > **[[Link]]**
 > [![[JourneyBoard.png\|sban htiny ctr]]](Journey%20Board)
 >
-> **[[Link]]**
-> [![[AdventureIcon.png\|sban htiny ctr]]](Lampoteuo)
+> **[[Campaign Home]]**
+> [![[AdventureIcon.png\|sban htiny ctr]]](Campaign%20Home)
 > 
-> **[[Link]]**
-> [![[PartyLogo.jpg\|sban htiny ctr p+t]]|](Party%201%2FExample%20Party%201)
+> **[[One Shot Bois]]**
+> [![[PartyLogo.jpg\|sban htiny ctr p+t]]|](Party)
 
 
 > [!infobox]

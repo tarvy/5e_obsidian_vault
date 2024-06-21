@@ -4,6 +4,7 @@ cssclasses: json5e-spell
 tags:
 - compendium/src/5e/phb
 - spell/class/cleric
+- spell/class/cleric/community-domain
 - spell/class/fighter/eldritch-knight
 - spell/class/paladin
 - spell/class/paladin/oath-of-the-crown
@@ -15,6 +16,7 @@ tags:
 - spell/level/4
 - spell/school/abjuration
 classes:
+- Cleric (Community Domain)
 - Cleric
 - Fighter (Eldritch Knight)
 - Paladin (Oath of Vengeance)
@@ -42,6 +44,6 @@ If the target is native to a different plane of existence than the one you're on
 
 **At Higher Levels.** When you cast this spell using a spell slot of 5th level or higher, you can target one additional creature for each slot level above 4th.
 
-**Classes**: [Cleric](/3-Mechanics/CLI/classes/cleric.md), [Fighter (Eldritch Knight)](/3-Mechanics/CLI/classes/fighter-eldritch-knight.md), [Paladin (Oath of Vengeance)](/3-Mechanics/CLI/classes/paladin-oath-of-vengeance.md), [Paladin (Oath of the Crown)](/3-Mechanics/CLI/classes/paladin-oath-of-the-crown-scag.md), [Paladin](/3-Mechanics/CLI/classes/paladin.md), [Rogue (Arcane Trickster)](/3-Mechanics/CLI/classes/rogue-arcane-trickster.md), [Sorcerer](/3-Mechanics/CLI/classes/sorcerer.md), [Warlock](/3-Mechanics/CLI/classes/warlock.md), [Wizard](/3-Mechanics/CLI/classes/wizard.md)
+**Classes**: [Cleric (Community Domain)](/3-Mechanics/CLI/classes/cleric-community-domain-hwcs.md), [Cleric](/3-Mechanics/CLI/classes/cleric.md), [Fighter (Eldritch Knight)](/3-Mechanics/CLI/classes/fighter-eldritch-knight.md), [Paladin (Oath of Vengeance)](/3-Mechanics/CLI/classes/paladin-oath-of-vengeance.md), [Paladin (Oath of the Crown)](/3-Mechanics/CLI/classes/paladin-oath-of-the-crown-scag.md), [Paladin](/3-Mechanics/CLI/classes/paladin.md), [Rogue (Arcane Trickster)](/3-Mechanics/CLI/classes/rogue-arcane-trickster.md), [Sorcerer](/3-Mechanics/CLI/classes/sorcerer.md), [Warlock](/3-Mechanics/CLI/classes/warlock.md), [Wizard](/3-Mechanics/CLI/classes/wizard.md)
 
 *Source: Player's Handbook p. 217. Available in the SRD.*

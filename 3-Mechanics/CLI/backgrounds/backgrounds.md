@@ -5,6 +5,7 @@ cssclasses: json5e-note
 # Index of Backgrounds
 
 - [Acolyte](acolyte.md)
+- [Bandit Defector](bandit-defector-hwcs.md)
 - [Charlatan](charlatan.md)
 - [City Watch (Investigator) (Variant)](city-watch-investigator-variant-scag.md)
 - [City Watch](city-watch-scag.md)
@@ -19,6 +20,7 @@ cssclasses: json5e-note
 - [Faction Agent](faction-agent-scag.md)
 - [Far Traveler](far-traveler-scag.md)
 - [Folk Hero](folk-hero.md)
+- [Grounded](grounded-hwcs.md)
 - [Guild Artisan (Guild Merchant) (Variant)](guild-artisan-guild-merchant-variant.md)
 - [Guild Artisan](guild-artisan.md)
 - [Hermit](hermit.md)
@@ -37,3 +39,4 @@ cssclasses: json5e-note
 - [Urchin](urchin.md)
 - [Uthgardt Tribe Member](uthgardt-tribe-member-scag.md)
 - [Waterdhavian Noble](waterdhavian-noble-scag.md)
+- [Wind-Touched](wind-touched-hwcs.md)

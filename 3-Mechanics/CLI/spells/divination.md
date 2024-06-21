@@ -4,6 +4,7 @@ cssclasses: json5e-spell
 tags:
 - compendium/src/5e/phb
 - spell/class/cleric
+- spell/class/cleric/night-domain
 - spell/class/druid/circle-of-the-land
 - spell/class/fighter/eldritch-knight
 - spell/class/rogue/arcane-trickster
@@ -11,6 +12,7 @@ tags:
 - spell/ritual
 - spell/school/divination
 classes:
+- Cleric (Night Domain)
 - Cleric
 - Druid (Circle of the Land)
 - Fighter (Eldritch Knight)
@@ -31,6 +33,6 @@ The spell doesn't take into account any possible circumstances that might change
 
 If you cast the spell two or more times before finishing your next long rest, there is a cumulative 25% chance chance for each casting after the first that you get a random reading. The DM makes this roll in secret.
 
-**Classes**: [Cleric](/3-Mechanics/CLI/classes/cleric.md), [Druid (Circle of the Land)](/3-Mechanics/CLI/classes/druid-circle-of-the-land.md), [Fighter (Eldritch Knight)](/3-Mechanics/CLI/classes/fighter-eldritch-knight.md), [Rogue (Arcane Trickster)](/3-Mechanics/CLI/classes/rogue-arcane-trickster.md)
+**Classes**: [Cleric (Night Domain)](/3-Mechanics/CLI/classes/cleric-night-domain-hwcs.md), [Cleric](/3-Mechanics/CLI/classes/cleric.md), [Druid (Circle of the Land)](/3-Mechanics/CLI/classes/druid-circle-of-the-land.md), [Fighter (Eldritch Knight)](/3-Mechanics/CLI/classes/fighter-eldritch-knight.md), [Rogue (Arcane Trickster)](/3-Mechanics/CLI/classes/rogue-arcane-trickster.md)
 
 *Source: Player's Handbook p. 234. Available in the SRD and the Basic Rules.*

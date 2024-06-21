@@ -5,6 +5,7 @@ cssclasses: json5e-note
 # Index of Elemental
 
 - [Air Elemental](air-elemental.md)
+- [Aspect of Fire](aspect-of-fire-hwcs.md)
 - [Azer](azer.md)
 - [Dao](dao.md)
 - [Djinni](djinni.md)
