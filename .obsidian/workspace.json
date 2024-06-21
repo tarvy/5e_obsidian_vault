@@ -8,53 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d3c34ced877b8ecf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3-Mechanics/CLI/books/humblewood-campaign-setting/07-appendix-b-nonplayer-characters.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "b340b8a337da9216",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "2-World/Modules/HumbleWood, Adventure in the Wood/Adventure in the Wood Journey Board.md"
-              }
-            }
-          },
-          {
-            "id": "53a4bfb6cfcd2267",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "2-World/Modules/HumbleWood, Adventure in the Wood/Untitled.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5af37a2e6131194a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2-World/Modules/HumbleWood, Adventure in the Wood/HW-Chapter 1, The Adventure Begins.md",
+                "file": "2-World/Modules/HumbleWood, Adventure in the Wood/HW-Chapter 3, Urgent Summons.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -148,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-World/Modules/HumbleWood, Adventure in the Wood/HW-Chapter 1, The Adventure Begins.md",
+                "file": "2-World/Modules/HumbleWood, Adventure in the Wood/HW-Chapter 3, Urgent Summons.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-World/Modules/HumbleWood, Adventure in the Wood/HW-Chapter 1, The Adventure Begins.md",
+                "file": "2-World/Modules/HumbleWood, Adventure in the Wood/HW-Chapter 3, Urgent Summons.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -188,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-World/Modules/HumbleWood, Adventure in the Wood/HW-Chapter 1, The Adventure Begins.md"
+                "file": "2-World/Modules/HumbleWood, Adventure in the Wood/HW-Chapter 3, Urgent Summons.md"
               }
             }
           },
@@ -262,24 +227,44 @@
       "templater-obsidian:Templater": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-kanban:Create new board": false,
-      "initiative-tracker:Initiative Tracker Encounter Builder": false
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "5af37a2e6131194a",
+  "active": "b340b8a337da9216",
   "lastOpenFiles": [
+    "2-World/Modules/HumbleWood, Adventure in the Wood/HW-Chapter 4, Mysteries of the Avium.md",
+    "2-World/Modules/HumbleWood, Adventure in the Wood/HW-Chapter 5, Of Fate and Flame.md",
+    "z_Assets/b890b46155d77fc851645bea7f1fd900_MD5.webp",
+    "z_Assets/52058a5102830bb3ed061f228bd57661_MD5.webp",
+    "z_Assets/cec16e9e947f7492a76944262c0b7d77_MD5.webp",
+    "z_Assets/531604066701962e1dbbfdd432226191_MD5.webp",
+    "z_Assets/a20bd84673f2d1b37c3b643d7e5d791f_MD5.webp",
+    "z_Assets/02fb955c1d84115f12d4b2b6ebcf978b_MD5.webp",
+    "z_Assets/6dcef38dd1f3fa3750447c103410ea27_MD5.webp",
+    "z_Assets/86fabd6a53a36561cce499d1f5c23444_MD5.webp",
+    "z_Assets/73cfc3e7a9ddcdcc88ec3569361df66a_MD5.webp",
+    "z_Assets/a29cd68ec63e97f77c85ee3d1aa9ae7c_MD5.webp",
+    "2-World/Modules/HumbleWood, Adventure in the Wood/HW-Chapter 3, Urgent Summons.md",
+    "2-World/Modules/HumbleWood, Adventure in the Wood/HW-Chapter 2, The Bandit Menace.md",
+    "2-World/Modules/HumbleWood, Adventure in the Wood/HW-Chapter 1, The Adventure Begins.md",
+    "main.py",
     "2-World/Modules/HumbleWood, Adventure in the Wood/HumbleWood, Adventure in the Wood.md",
+    "Img_To_Local_Python.log",
+    "2-World/Modules/HumbleWood, Adventure in the Wood/main.py",
+    "3-Mechanics/CLI/adventures/humblewood-adventure-in-the-wood/6-part-5-of-fate-and-flame.md",
+    "3-Mechanics/CLI/adventures/humblewood-adventure-in-the-wood/5-part-4-mysteries-of-the-avium.md",
+    "3-Mechanics/CLI/adventures/humblewood-adventure-in-the-wood/4-part-3-an-urgent-summons.md",
+    "1-DM Toolkit/Home.md",
+    "2-World/Modules/HumbleWood, Adventure in the Wood/Adventure in the Wood Journey Board.md",
+    "3-Mechanics/CLI/adventures/humblewood-adventure-in-the-wood/3-part-2-the-bandit-menace.md",
     "2-World/Modules/HumbleWood, Adventure in the Wood/Drawing 2024-06-20 23.40.46.excalidraw.md",
     "2-World/Modules/HumbleWood, Adventure in the Wood/Untitled.md",
-    "2-World/Modules/HumbleWood, Adventure in the Wood/HW-Chapter 1, The Adventure Begins.md",
     "2-World/Modules/HumbleWood, Adventure in the Wood/Untitled.canvas",
-    "2-World/Modules/HumbleWood, Adventure in the Wood/Adventure in the Wood Journey Board.md",
     "2-Campaign/Campaign Home.md",
-    "2-World/Modules/HumbleWood, Adventure in the Wood/HW-Chapter 2, The Bandit Menace.md",
     "3-Mechanics/CLI/adventures/humblewood-adventure-in-the-wood/2-part-1-the-adventure-begins.md",
     "3-Mechanics/CLI/bestiary/npc/cara-stormsinger-hwcs.md",
-    "1-DM Toolkit/Home.md",
     "2-World/Modules/HumbleWood, Adventure in the Wood/Adventure in the Wood  Journey Board.md",
-    "2-World/Modules/HumbleWood, Adventure in the Wood/HumbleWoodCover.webp",
     "2-World/Modules/HumbleWood, Adventure in the Wood/Humblewood.md",
     "2-World/Modules/HumbleWood, Adventure in the Wood/Adventure in the Wood  Chapter 2, The Bandit Menace.md",
     "2-World/Modules/HumbleWood, Adventure in the Wood/Adventure in the Wood Chapter 1, The Adventure Begins.md",
@@ -287,33 +272,13 @@
     "2-Campaign/2-World%2FModules%2FHumbleWood%2C Adventure in the Wood%2FHumbleWood%2C Adventure in the Wood.md",
     "1-Party/One Shot Bois/Bukaki Bob.md",
     "2-Campaign/Journey Board HW.md",
-    "1-DM Toolkit/Journey Board.md",
-    "2-Campaign/Adventure Module.md",
-    "2-World/Modules/Modules.md",
     "Untitled.canvas",
-    "3-Mechanics/CLI/bestiary/humanoid/cervan-priest-hwcs.md",
-    "3-Mechanics/CLI/races/cervan-grove-hwcs.md",
-    "3-Mechanics/CLI/books/humblewood-campaign-setting/02-welcome-to-the-wood.md",
-    "3-Mechanics/CLI/books/humblewood-campaign-setting/01-humblewood-campaign-setting.md",
-    "2-World/Modules/HumbleWood, Adventure in the Wood/Adventure in the Wood Main Overview.md",
     "2-World/Modules/Humblewood",
     "compendium/bestiary 3",
     "rules/variant-rules 3",
     "compendium/races 2",
     "compendium/spells 2",
     "compendium/classes 2",
-    "compendium/objects 2",
-    "compendium/vehicles 2",
-    "compendium/rewards 2",
-    "compendium/optional-features 2",
-    "z_Assets/Placeholder Images/MapPlaceholder.png",
-    "z_Assets/Map-Faerun-20240618152644040.webp",
-    "z_Assets/Faerun-20240618152144513.webp",
-    "z_Assets/DnD5e-SideScreen-20240405084646428.webp",
-    "3-Mechanics/CLI/books/dungeon-masters-guide/img/monster_size_chart.webp",
-    "3-Mechanics/CLI/books/dungeon-masters-guide/img/flanking_and_cover_hexes.webp",
-    "3-Mechanics/CLI/books/dungeon-masters-guide/img/flanking_and_cover_squares.webp",
-    "3-Mechanics/CLI/books/dungeon-masters-guide/img/creature_size_on_squares_and_hexes.webp",
-    "3-Mechanics/CLI/books/dungeon-masters-guide/img/app-c-9.webp"
+    "compendium/objects 2"
   ]
 }

@@ -5,7 +5,7 @@
 
 we didnt start the fire
 
-![](https://raw.githubusercontent.com/5etools-mirror-2/5etools-img/main/adventure/HWAitW/Part-1.webp#center)
+![[z_Assets/a8b9c01b0a0973d5cc819afcd78aff48_MD5.webp]]
 
 Part 1 of the adventure is designed to start a party of 1st level characters off on their journey in the world of Humblewood. The kinds of characters players create will influence how the campaign begins.
 
@@ -165,7 +165,7 @@ If Eliza promised the characters an item for accompanying her to Winnowing Reach
 
 Characters are free to explore Winnowing Reach, though they will find the amenities of this research station to be lacking compared to other settlements of its size. There is a general store and a small inn with a tavern, but instead of staples like a weapon or armorsmith, the town has an apothecary and a bookbinder. The following numbered locations refer to Fig.1.1: the map of Winnowing Reach.
 
-![](https://raw.githubusercontent.com/5etools-mirror-2/5etools-img/main/adventure/HWAitW/Winnowing-Reach.webp#center)
+![[z_Assets/6dc53c940bda8b501d2c24bd6a39e685_MD5.webp]]
 
 ### 1. Storage and Granary
 
@@ -332,10 +332,10 @@ After another 30 minutes of walking through the caverns, the area will become di
 
 The center of the cave is a 60-foot-wide clearing with tunnels branching off in different directions. Refer to Fig. 1.2 for a map of the Mokkden Caverns.
 
-![](https://raw.githubusercontent.com/5etools-mirror-2/5etools-img/main/adventure/HWAitW/Mokkden-Caverns-DM.webp#center)
+![[z_Assets/4e24e402646ad7c36c596ec84220a648_MD5.webp]]
 
 > [!gallery]
-> ![Mokkden Caverns battlemap](https://raw.githubusercontent.com/5etools-mirror-2/5etools-img/main/adventure/HWAitW/Mokkden-Caverns.webp#gallery)
+> ![[z_Assets/67ba0ef4efc92838fa3f898e24004ff6_MD5.webp]]
 
 > [!note] Using the Mokkden Caverns battlemap
 > 
@@ -489,10 +489,10 @@ Now that she has what she requires, Susan will start the ritual.
 
 Refer to Fig. 1.3 for a map of Susan's Hut.
 
-![](https://raw.githubusercontent.com/5etools-mirror-2/5etools-img/main/adventure/HWAitW/Susans-Hut-DM.webp#center)
+![[z_Assets/8da1689496653515630f7eff27e94327_MD5.webp]]
 
 > [!gallery]
-> ![Susan's Hut battlemap](https://raw.githubusercontent.com/5etools-mirror-2/5etools-img/main/adventure/HWAitW/Susans-Hut.webp#gallery)
+> ![[z_Assets/887759d77550acd1344850bb1ce2ad32_MD5.webp]]
 
 > [!note] Using the Susan's Hut map
 > 
@@ -514,7 +514,7 @@ The party may now call on Susan to make a variety of potions and brews in exchan
 > If the party assisted the witch successfully, she is now considered an ally. She offers two [potions of healing](/3-Mechanics/CLI/items/potion-of-healing.md) to the party, with the promise of more potions in exchange for ingredients.
 ^rewards
 
-![](https://raw.githubusercontent.com/5etools-mirror-2/5etools-img/main/adventure/HWAitW/Potions.webp#center)
+![[z_Assets/78448a1b2e7c0a4d5a3a1465df9dec60_MD5.webp]]
 
 | Potion | Ingredients | Potion Effect |
 |--------|-------------|---------------|
